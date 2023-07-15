@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wgetdxvvy
+- 👋 Hi, I’m @wgetdxvvy aka Dxvvy - Dxvvyxd - Dxvvyxrd
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning CSS
 - 💞️ Instagram : wgetdxvvy
