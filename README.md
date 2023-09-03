@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @wgetdxvvy aka Dxvvy - Dxvvyxd - Dxvvyxrd
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning CSS
-- 💞️ Instagram : wgetdxvvy
-- 📫 clasxg@gmail.com
+Obviously, it is called **README**, so you are **reading** me now<br>
+I made [that one Discord bot](https://xela.dev/) which is probably better than MEE6, Tickets and Dyno, idk
 
-<!---
-wgetdxvvy/wgetdxvvy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can find and talk to me at https://discord.gg/AlexFlipnote
+
+![challenge_yes](https://i.alexflipnote.dev/4h93guy.png)
